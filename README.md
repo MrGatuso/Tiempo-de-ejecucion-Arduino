@@ -1,1 +1,3 @@
-# Tiempo-de-ejecucion-Arduino
+# Verano de investigación - Programa Delfín 2021
+## Evaluación del tiempo de ejecución en la plataforma Arduino Uno
+El tema de investigación es sobre la evaluación de tiempo de ejecución dado una plataforma predefinida (Arduino Uno). Se usa dos tipos de implementaciones: software y hardware. La implementación de software usa contadores de ciclos de reloj del cristal de la tarjeta de desarrollo, mientras que la implementación de hardware envía señales eléctricas del estatus del programa o algoritmo a evaluar para ser analizado con un osciloscopio. Este código fue elaborado como requisito para completar el programa Delfín 2021.
