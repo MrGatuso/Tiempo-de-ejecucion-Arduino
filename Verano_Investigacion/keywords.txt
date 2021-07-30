@@ -1,0 +1,4 @@
+TestTimer	KEYWORD1
+TimerStart	KEYWORD2
+TimerStop	KEYWORD2
+GetTime		KEYWORD2
